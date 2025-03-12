@@ -10,6 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![ Estatisticas GitHub](https://github-readme-stats.vercel.app/api?username=sa-pedrinz&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sa-pedrinz&layout=compact) 
+
+
+
 <div> 
   <a href="https://instagram.com/sa.pedrinz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrohsaraivaarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
